@@ -11,6 +11,8 @@ def greet_characters(array)
   end
 end
 
+greet_characters(dwarves)
+
 def list_dwarves(array)
   # Use `each_with_index` to enumerate over the provided array
   #
