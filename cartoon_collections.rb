@@ -21,3 +21,5 @@ def list_dwarves(array)
     puts "#{index}" + "." + " #{item}"
   end
 end
+
+list_dwarves(dwarves)
